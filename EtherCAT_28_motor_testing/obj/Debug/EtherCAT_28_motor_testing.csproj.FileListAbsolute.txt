@@ -1,0 +1,89 @@
+C:\Users\EN301_withEtherCAT\Desktop\CJ\C#_Proj\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe.config
+C:\Users\EN301_withEtherCAT\Desktop\CJ\C#_Proj\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe
+C:\Users\EN301_withEtherCAT\Desktop\CJ\C#_Proj\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.pdb
+C:\Users\EN301_withEtherCAT\Desktop\CJ\C#_Proj\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csprojAssemblyReference.cache
+C:\Users\EN301_withEtherCAT\Desktop\CJ\C#_Proj\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Form1.resources
+C:\Users\EN301_withEtherCAT\Desktop\CJ\C#_Proj\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Properties.Resources.resources
+C:\Users\EN301_withEtherCAT\Desktop\CJ\C#_Proj\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.GenerateResource.cache
+C:\Users\EN301_withEtherCAT\Desktop\CJ\C#_Proj\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.CoreCompileInputs.cache
+C:\Users\EN301_withEtherCAT\Desktop\CJ\C#_Proj\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.exe
+C:\Users\EN301_withEtherCAT\Desktop\CJ\C#_Proj\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.pdb
+C:\Users\EN301_withEtherCAT\Desktop\CJ\C#_Proj\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\bin\Debug\TwinCAT.Ads.dll
+C:\Users\EN301_withEtherCAT\Desktop\CJ\C#_Proj\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.CopyComplete
+D:\labproject\c#\screw\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe.config
+D:\labproject\c#\screw\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe
+D:\labproject\c#\screw\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.pdb
+D:\labproject\c#\screw\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csprojAssemblyReference.cache
+D:\labproject\c#\screw\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Form1.resources
+D:\labproject\c#\screw\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Properties.Resources.resources
+D:\labproject\c#\screw\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.GenerateResource.cache
+D:\labproject\c#\screw\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.CoreCompileInputs.cache
+D:\labproject\c#\screw\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.exe
+D:\labproject\c#\screw\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.pdb
+D:\labproject\c#\screw\EtherCAT_28_motor_testing\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.ResolveComReference.cache
+D:\Users\User\Desktop\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe.config
+D:\Users\User\Desktop\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe
+D:\Users\User\Desktop\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.pdb
+D:\Users\User\Desktop\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csprojAssemblyReference.cache
+D:\Users\User\Desktop\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.ResolveComReference.cache
+D:\Users\User\Desktop\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Form1.resources
+D:\Users\User\Desktop\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Properties.Resources.resources
+D:\Users\User\Desktop\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.GenerateResource.cache
+D:\Users\User\Desktop\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.exe
+D:\Users\User\Desktop\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.pdb
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe.config
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.pdb
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csprojAssemblyReference.cache
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.ResolveComReference.cache
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Form1.resources
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Properties.Resources.resources
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.GenerateResource.cache
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.CoreCompileInputs.cache
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.exe
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0311_可讀取新建PDO物件\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.pdb
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe.config
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.pdb
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csprojAssemblyReference.cache
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.ResolveComReference.cache
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Form1.resources
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Properties.Resources.resources
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.GenerateResource.cache
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.CoreCompileInputs.cache
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.exe
+D:\labproject\c#\screw\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.pdb
+C:\Users\AI210\Desktop\TM\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe.config
+C:\Users\AI210\Desktop\TM\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe
+C:\Users\AI210\Desktop\TM\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.pdb
+C:\Users\AI210\Desktop\TM\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csprojAssemblyReference.cache
+C:\Users\AI210\Desktop\TM\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.ResolveComReference.cache
+C:\Users\AI210\Desktop\TM\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Form1.resources
+C:\Users\AI210\Desktop\TM\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Properties.Resources.resources
+C:\Users\AI210\Desktop\TM\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.GenerateResource.cache
+C:\Users\AI210\Desktop\TM\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.CoreCompileInputs.cache
+C:\Users\AI210\Desktop\TM\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.exe
+C:\Users\AI210\Desktop\TM\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.pdb
+C:\Users\AI210\Desktop\CJ\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe.config
+C:\Users\AI210\Desktop\CJ\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe
+C:\Users\AI210\Desktop\CJ\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.pdb
+C:\Users\AI210\Desktop\CJ\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csprojAssemblyReference.cache
+C:\Users\AI210\Desktop\CJ\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.ResolveComReference.cache
+C:\Users\AI210\Desktop\CJ\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Form1.resources
+C:\Users\AI210\Desktop\CJ\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Properties.Resources.resources
+C:\Users\AI210\Desktop\CJ\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.GenerateResource.cache
+C:\Users\AI210\Desktop\CJ\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.CoreCompileInputs.cache
+C:\Users\AI210\Desktop\CJ\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.exe
+C:\Users\AI210\Desktop\CJ\C#\EtherCAT_28_motor_testing_0412\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.pdb
+\\140.125.49.210\資料暫時區\學弟\105\黃仕傑\EtherCAT相關\C#\備份\0420_EtherCAT_28_motor_testing WMX3_完成\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe.config
+\\140.125.49.210\資料暫時區\學弟\105\黃仕傑\EtherCAT相關\C#\備份\0420_EtherCAT_28_motor_testing WMX3_完成\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.exe
+\\140.125.49.210\資料暫時區\學弟\105\黃仕傑\EtherCAT相關\C#\備份\0420_EtherCAT_28_motor_testing WMX3_完成\EtherCAT_28_motor_testing\bin\Debug\EtherCAT_28_motor_testing.pdb
+\\140.125.49.210\資料暫時區\學弟\105\黃仕傑\EtherCAT相關\C#\備份\0420_EtherCAT_28_motor_testing WMX3_完成\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csprojAssemblyReference.cache
+\\140.125.49.210\資料暫時區\學弟\105\黃仕傑\EtherCAT相關\C#\備份\0420_EtherCAT_28_motor_testing WMX3_完成\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.ResolveComReference.cache
+\\140.125.49.210\資料暫時區\學弟\105\黃仕傑\EtherCAT相關\C#\備份\0420_EtherCAT_28_motor_testing WMX3_完成\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Form1.resources
+\\140.125.49.210\資料暫時區\學弟\105\黃仕傑\EtherCAT相關\C#\備份\0420_EtherCAT_28_motor_testing WMX3_完成\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.Properties.Resources.resources
+\\140.125.49.210\資料暫時區\學弟\105\黃仕傑\EtherCAT相關\C#\備份\0420_EtherCAT_28_motor_testing WMX3_完成\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.GenerateResource.cache
+\\140.125.49.210\資料暫時區\學弟\105\黃仕傑\EtherCAT相關\C#\備份\0420_EtherCAT_28_motor_testing WMX3_完成\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.csproj.CoreCompileInputs.cache
+\\140.125.49.210\資料暫時區\學弟\105\黃仕傑\EtherCAT相關\C#\備份\0420_EtherCAT_28_motor_testing WMX3_完成\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.exe
+\\140.125.49.210\資料暫時區\學弟\105\黃仕傑\EtherCAT相關\C#\備份\0420_EtherCAT_28_motor_testing WMX3_完成\EtherCAT_28_motor_testing\obj\Debug\EtherCAT_28_motor_testing.pdb
